@@ -1,3 +1,7 @@
 lllkk
 
+<<<<<<< HEAD
 master
+=======
+999hhhhhhhhhhh--------
+>>>>>>> f1
